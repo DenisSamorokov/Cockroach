@@ -25,7 +25,7 @@ pip install pygame pygamevideo
 
 ## Запуск игры
 ```bash
-python tarakan3.py
+python main.py
 ```
 
 ## Управление
